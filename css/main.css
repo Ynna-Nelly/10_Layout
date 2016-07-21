@@ -1,0 +1,103 @@
+img{
+	margin: 10px;
+}
+
+.labimg{
+	width:680px;
+	height: auto;
+}
+
+li{
+	margin:-3px;
+	font-size: 19px;
+	list-style:none;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+}
+
+.linea{
+	border-left: 1px solid black;
+}
+
+.caja{
+	margin: 4px 0;
+	display: inline-block;
+	position: relative;
+}
+
+.caja2{
+	margin: 10px;
+	position: relative;
+	float: left;
+}
+
+.alumna{
+	display: inline-block;
+	position: relative;
+}
+
+.texto{
+	font-size: 24px;
+}
+
+.noma{
+	position: absolute;
+	color: white;
+	padding-top: 185px;
+	padding-left: 10px;
+	left: 30%;
+}
+
+hr{
+	margin: 20px;
+}
+
+.alinearhr{
+	padding-left: 10px;
+}
+
+.textos{
+	margin: 20px;
+}
+
+.rect{
+	height: 45px;
+	background-color: grey;
+	margin: 15px;
+	display: block;	
+}
+
+.hab1{
+	width: 500px;
+}
+
+.hab2{
+	width: 400px;
+}
+
+.hab3{
+	width: 150px;
+}
+
+.circulo{
+	border-radius:100% 
+}
+
+.barras{
+	color: white;
+	font-size: 16px;
+	padding: 15px;
+	text-align: left;
+}
+
+.retro{
+	width: 200px;
+	height: 150px;
+}
+
+.borderg{
+	border: 2px solid black;
+}
